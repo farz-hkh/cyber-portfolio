@@ -27,7 +27,6 @@ On-Going.
 ## 🎯 Goals
 - Pass Security+ and CEH
 - Contribute to open-source blue/red team tools
-- Land my first cybersecurity role 🔐
 
 ---
 
