@@ -5,28 +5,22 @@ Welcome! I'm an aspiring cybersecurity professional with a background in IT supp
 ---
 
 ## 🧠 Skills & Tools
-- Nmap, Wireshark, Burp Suite, Metasploit
-- Linux (Kali), Windows Server, AD, Networking
-- TryHackMe, HackTheBox
-- Python & Bash scripting basics
+- Nmap, Nikto, Hydra
+- Linux (Kali),
+- TryHackMe,
+- Bash scripting basics
 
 ---
 
 ## 🧪 Labs & Projects
 
 ### ✅ TryHackMe Walkthroughs
-- [Simple CTF](labs/tryhackme-simple-ctf.md)
-
-### 📧 Phishing Investigations
-- [Email Header Analysis](labs/phishing-header-analysis.md)
-
-### 🔍 Scripts & Tools
-- [Log Monitoring Script](scripts/log-monitor.sh)
+- [Simple CTF](labs/tryhackme-dvwa.md)
 
 ---
 
 ## 🧱 Home Lab Setup
-Currently running a local VirtualBox lab to simulate attacks and practice defense techniques.
+On-Going.
 
 ---
 
