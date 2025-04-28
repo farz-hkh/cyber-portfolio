@@ -15,7 +15,7 @@ Welcome! I'm an aspiring cybersecurity professional with a background in IT supp
 ## 🧪 Labs & Projects
 
 ### ✅ TryHackMe Walkthroughs
-- [Simple CTF](labs/tryhackme-dvwa.md)
+- [Simple DVWA](labs/tryhackme-dvwa.md)
 
 ---
 
